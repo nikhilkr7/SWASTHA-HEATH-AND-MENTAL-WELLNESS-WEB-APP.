@@ -9,7 +9,7 @@ In today’s fast-paced world, stress, sedentary lifestyles, and a lack of mindf
 ## OUTPUT
 ![Screenshot 2025-03-15 175329](https://github.com/user-attachments/assets/7803e9a6-a856-4150-b4ed-ef2b13a50db0)
 
-SERVICES PROVIDED
+## SERVICES PROVIDED
 ![Screenshot 2025-03-15 175425](https://github.com/user-attachments/assets/569b7d90-d313-4d02-a6b9-b20368a1695a)
 ![Screenshot 2025-03-15 175437](https://github.com/user-attachments/assets/dc2efa9e-99d3-4039-b6da-6af71790d253)
 
