@@ -6,7 +6,7 @@ This web application is designed to support users in their journey toward better
 
 In today’s fast-paced world, stress, sedentary lifestyles, and a lack of mindfulness have contributed to declining physical and mental well-being. Many individuals struggle to find accessible, structured, and personalized solutions to incorporate yoga into their daily routines. Existing resources often lack customization, guided progress tracking, and holistic wellness integration, making it challenging for users to stay committed. There is a need for a user-friendly digital platform that provides guided yoga sessions, posture tips, and mindfulness practices tailored to individual fitness levels and goals.
 
-OUTPUT
+## OUTPUT
 ![Screenshot 2025-03-15 175329](https://github.com/user-attachments/assets/7803e9a6-a856-4150-b4ed-ef2b13a50db0)
 
 SERVICES PROVIDED
